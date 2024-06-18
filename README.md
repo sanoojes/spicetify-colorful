@@ -5,39 +5,43 @@ A vibrant and customizable Spicetify theme that lets you inject personality into
 ### Features
 
 - **Variety of Schemes:** Explore multiple color schemes to suit your mood or style:
+
   - `base` (default)
-  - `white`
-  - `dark`
-  - `dracula`
-  - `nord-light`
-  - `nord-dark`
-  - `purple`
-  - `samurai`
   - `beach-sunset`
-  - `gruvbox`
-  - `gruvbox-material-dark`
-  - `rosepine`
-  - `lunar`
-  - `catppuccin-latte`
-  - `catppuccin-frappe`
-  - `catppuccin-macchiato`
-  - `catppuccin-mocha`
+  - `biscuit`
   - `blue-dark`
   - `blue-light`
+  - `catppuccin-frappe`
+  - `catppuccin-latte`
+  - `catppuccin-macchiato`
+  - `catppuccin-mocha`
+  - `dark`
+  - `dracula`
   - `gray-dark`
   - `gray-light`
   - `green-dark`
   - `green-light`
+  - `greenland`
+  - `gruvbox`
+  - `gruvbox-material-dark`
+  - `lunar`
+  - `midnight-catppuccin`
+  - `nord-dark`
+  - `nord-light`
   - `orange-dark`
   - `orange-light`
+  - `purple`
   - `purple-dark`
   - `purple-light`
   - `red-dark`
   - `red-light`
   - `rose-pine`
-  - `rose-pine-moon`
   - `rose-pine-dawn`
+  - `rose-pine-moon`
+  - `samurai`
   - `tokyo-night`
+  - `white`
+
 - **Easy Installation:** Install via scripts or the Spicetify Marketplace.
 - **Community Support:** Report issues on GitHub.
 
