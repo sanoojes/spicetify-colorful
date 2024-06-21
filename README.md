@@ -38,6 +38,9 @@ A vibrant and customizable Spicetify theme that lets you inject personality into
   - `rose-pine`
   - `rose-pine-dawn`
   - `rose-pine-moon`
+  - `synthwave84`
+  - `pichu`
+  - `gin24`
   - `samurai`
   - `tokyo-night`
   - `white`
