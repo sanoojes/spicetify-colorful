@@ -16,7 +16,6 @@ mkdir -p "${theme_dir}/Colorful"
 echo "Downloading Colorful..."
 curl --silent --output "${theme_dir}/Colorful/color.ini" "${theme_url}/color.ini"
 curl --silent --output "${theme_dir}/Colorful/user.css" "${theme_url}/user.css"
-curl --silent --output "${theme_dir}/Colorful/theme.js" "${theme_url}/theme.js"
 echo "Done"
 
 # Apply theme

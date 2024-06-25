@@ -46,7 +46,6 @@ if ($PSVersionTable.PSVersion.Major -gt $PSMinVersion) {
   Write-Part "DOWNLOADING    "; Write-Emphasized $spicedir
   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/src/color.ini" -UseBasicParsing -OutFile "$spicedir\Colorful\color.ini"
   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/src/user.css" -UseBasicParsing -OutFile "$spicedir\Colorful\user.css"
-  Invoke-WebRequest -Uri "https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/src/theme.js" -UseBasicParsing -OutFile "$spicedir\Colorful\theme.js"
   Write-Done
 
   # Installing.
