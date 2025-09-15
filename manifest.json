@@ -1,15 +1,15 @@
 {
-  "name": "Colorful",
-  "description": "Just a normal spotify theme with a lot of color schemes to chose from.",
-  "preview": "assets/images/base.png",
-  "readme": "README.md",
-  "usercss": "https://sanooj.is-a.dev/spicetify-colorful/src/user.css",
-  "schemes": "https://sanooj.is-a.dev/spicetify-colorful/src/color.ini",
-  "authors": [
-    {
-      "name": "Sanoojes",
-      "url": "https://github.com/sanoojes"
-    }
-  ],
-  "tags": ["colors", "simple", "original"]
+	"name": "Colorful",
+	"description": "Just a normal spotify theme with a lot of color schemes to chose from.",
+	"preview": "assets/images/base.png",
+	"readme": "README.md",
+	"usercss": "https://cdn.jsdelivr.net/gh/sanoojes/spicetify-colorful@main/src/user.css",
+	"schemes": "https://cdn.jsdelivr.net/gh/sanoojes/spicetify-colorful@main/src/color.ini",
+	"authors": [
+		{
+			"name": "Sanoojes",
+			"url": "https://github.com/sanoojes"
+		}
+	],
+	"tags": ["colors", "simple", "original"]
 }
