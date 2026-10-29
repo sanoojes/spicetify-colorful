@@ -3,7 +3,7 @@
 set -e
 
 # Download URL
-theme_url="https://raw.githubusercontent.com/spicetify-colorful/main/src"
+theme_url="https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/src"
 
 # Setup directories to download to
 spice_dir="$(dirname "$(spicetify -c)")"
