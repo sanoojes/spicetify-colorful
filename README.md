@@ -56,13 +56,13 @@ A vibrant and customizable Spicetify theme that lets you inject personality into
 
 ```powershell
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-iex "& { $(iwr -useb 'https://sanoojes.github.io/spicetify-colorful/install/install.ps1') }"
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/install.ps1') }"
 ```
 
 **Linux/macOS (Bash)**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/install/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/install.sh | sh
 ```
 
 #### Using Spicetify Marketplace (simpler installation):
@@ -114,4 +114,3 @@ curl -fsSL https://raw.githubusercontent.com/sanoojes/spicetify-colorful/main/in
   <summary></summary> 
   Readme is ai generated
 </details>
-
